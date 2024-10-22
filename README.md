@@ -27,7 +27,9 @@ The project implements several machine learning models to predict heart disease,
 - **Random Forest**
 - **Decision Trees**
 - **Support Vector Machines (SVM)**
+- **XG Boost**
 - **Feedforward Neural Networks (FNN)**
+  
 
 Each model is trained and evaluated based on accuracy, precision, recall, and F1 score. The results are presented using confusion matrices and classification reports to provide a comprehensive understanding of model performance.
 
@@ -66,6 +68,3 @@ To run the project locally, follow these steps:
 
 ## Usage
 Open a web browser and navigate to `http://localhost:7860` to access the Gradio interface. Input the necessary patient data to receive predictions regarding heart disease.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
